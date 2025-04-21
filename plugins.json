@@ -1,6 +1,6 @@
 [
   {
-    "name": "kavishka Plugin",
+    "name": "kavishka-Plugin",
     "entry": "./plugins/kavishkaplugin/plugin.js"
   }
 ]
