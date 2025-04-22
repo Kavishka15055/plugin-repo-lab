@@ -4,6 +4,10 @@
     "entry": "./plugins/sample-plugin/plugin.js"
   },
   {
+    "name": "Kavishka Plugin",
+    "entry": "./plugins/kavishka-plugin/plugin.js"
+  },
+  {
     "name": "Conflit Plugin",
     "entry": "./plugins/conflit-plugin/plugin.js"
   }
